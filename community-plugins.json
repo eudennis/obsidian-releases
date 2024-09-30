@@ -6,6 +6,14 @@
         "description": "Create date-links based on natural language.",
         "repo": "argenos/nldates-obsidian"
     },
+{
+	"id": "another-simple-todoist-sync-for-obsidian",
+	"name": "Another Simple Todoist Sync for Obsidian",
+	"author": "eudennis",
+	"description": "Simple plugin to sync Todoist and Obsidian. Forked from Ultimate Todoist Sync for Obsidian.",
+	"repo":"eudennis/ultimate-todoist-sync-for-obsidian-experiment"
+		
+},
     {
         "id": "hotkeysplus-obsidian",
         "name": "Hotkeys++",
